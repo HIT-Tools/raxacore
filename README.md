@@ -1,3 +1,5 @@
+Tracing from raxacore to bahmni-core
+
 # OpenMRS module bahmnicore
 
 This module provides necessary services for running Bahmni
